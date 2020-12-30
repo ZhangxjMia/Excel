@@ -5,14 +5,14 @@
 > This is 6.5-hour Excel Pivot Table taugh by [Chris Dutton](https://www.linkedin.com/in/csdutton/). 
 
 ### Concepts covered:
-a. Sorting
-b. Filtering
-c. Date Grouping
-d. Value Grouping
-e. Calculated Values
-f. Calculated Field
-g. Conditional Formatting (Highlight Cells, Data Bars)
-h. Value Setting (% of Column, % of Parent, % Difference From, Running Total) i. Table Layout
-j. Pivot Charts
-k. Slicers
-l. Show Values As (Rank)
+* Sorting
+* Filtering
+* Date Grouping
+* Value Grouping
+* Calculated Values
+* Calculated Field
+* Conditional Formatting (Highlight Cells, Data Bars)
+* Value Setting (% of Column, % of Parent, % Difference From, Running Total) i. Table Layout
+* Pivot Charts
+* Slicers
+* Show Values As (Rank)
