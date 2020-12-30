@@ -12,7 +12,8 @@
 * Calculated Values
 * Calculated Field
 * Conditional Formatting (Highlight Cells, Data Bars)
-* Value Setting (% of Column, % of Parent, % Difference From, Running Total) i. Table Layout
+* Value Setting (% of Column, % of Parent, % Difference From, Running Total) 
+* Table Layout
 * Pivot Charts
 * Slicers
 * Show Values As (Rank)
