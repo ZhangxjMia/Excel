@@ -17,6 +17,3 @@
 * Pivot Charts
 * Slicers
 * Show Values As (Rank)
-
-## NESTMii - OA
-> Online Assessment from a Chinese Food-Tech company for Data Analyst Intern position which is required to complete in 3 days.
